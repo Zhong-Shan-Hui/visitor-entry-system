@@ -12,11 +12,11 @@ This should trigger an e-pass which will be mailed to the visitor and also, a no
 There should also be a provision for the visitor to check-out easily.
 
 
-# Working of website-
+# Working of system-
 
-Steps given shows the working of website:
+Steps given shows the working:
 
-1) Visitor needs to fill up his/her details on the website.
+1) Visitor needs to fill up his/her details on the system.
 2) He/She will receive a mail with his/her e-pass. In the meantime, visitor's host will also receive a mail that a guest has arrived for him/her.
 3) During check-out, visitor needs to click on the check-out link provided in the e-pass.
 
@@ -64,8 +64,8 @@ Password- admin@123
 
 # Features-
 
-1) This is a <b>responsive and dynamic website</b> and will work on all devices.
+1) This is a <b>responsive and dynamic web application</b> and will work on all devices.
 
-2) This website is built with HTML, CSS, JavaScript, Bootstrap, jQuery, PHP, MySQL. We have also used the template provided by https://adminlte.io/?2.
+2) This application is built with HTML, CSS, JavaScript, Bootstrap, jQuery, PHP, MySQL. We have also used the template provided by https://adminlte.io/?2.
 
-3) You can have a visit of our website at <i> http://visitor.infinityfreeapp.com </i>.
+3) You can have a visit of our web application at <i> http://visitor.infinityfreeapp.com </i>.
